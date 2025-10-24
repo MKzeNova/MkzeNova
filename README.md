@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--<h2 align="left">"Hi... Iam MKzeNova ..!</h2>
+<h2 align="left">"Hi... Iam MKzeNova ..!</h2>
 
 ###
 
@@ -47,7 +45,5 @@
 <img src="https://raw.githubusercontent.com/MKzeNova/MKzeNova/output/snake.svg" alt="Snake animation" />
 
 ###
-**MKzeNova/MkzeNova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
